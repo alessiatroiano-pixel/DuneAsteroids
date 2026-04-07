@@ -1,0 +1,559 @@
+fileFormatVersion: 2
+guid: e8a92ca1e304a364fa041e47f0f7d680
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -923317770020454303
+    second: pngtree-frame-with-blue-futuristic-hud-streaming-overlay-vector-png-image_6647475_0
+  - first:
+      213: 1161763761086102148
+    second: pngtree-frame-with-blue-futuristic-hud-streaming-overlay-vector-png-image_6647475_1
+  - first:
+      213: -4918778170309876200
+    second: pngtree-frame-with-blue-futuristic-hud-streaming-overlay-vector-png-image_6647475_2
+  - first:
+      213: 8832681507142390746
+    second: pngtree-frame-with-blue-futuristic-hud-streaming-overlay-vector-png-image_6647475_3
+  - first:
+      213: -8472708964728567854
+    second: pngtree-frame-with-blue-futuristic-hud-streaming-overlay-vector-png-image_6647475_4
+  - first:
+      213: 5571135059836199740
+    second: pngtree-frame-with-blue-futuristic-hud-streaming-overlay-vector-png-image_6647475_5
+  - first:
+      213: 5038322806685745544
+    second: pngtree-frame-with-blue-futuristic-hud-streaming-overlay-vector-png-image_6647475_6
+  - first:
+      213: -1399727056357050086
+    second: pngtree-frame-with-blue-futuristic-hud-streaming-overlay-vector-png-image_6647475_7
+  - first:
+      213: -830357439612655359
+    second: pngtree-frame-with-blue-futuristic-hud-streaming-overlay-vector-png-image_6647475_8
+  - first:
+      213: 5596015201691910746
+    second: pngtree-frame-with-blue-futuristic-hud-streaming-overlay-vector-png-image_6647475_9
+  - first:
+      213: 7160796392163220434
+    second: pngtree-frame-with-blue-futuristic-hud-streaming-overlay-vector-png-image_6647475_10
+  - first:
+      213: -8679477017583111626
+    second: pngtree-frame-with-blue-futuristic-hud-streaming-overlay-vector-png-image_6647475_11
+  - first:
+      213: 4654372857634528454
+    second: pngtree-frame-with-blue-futuristic-hud-streaming-overlay-vector-png-image_6647475_12
+  - first:
+      213: 1258492403462571824
+    second: pngtree-frame-with-blue-futuristic-hud-streaming-overlay-vector-png-image_6647475_13
+  - first:
+      213: -4044311939187356848
+    second: pngtree-frame-with-blue-futuristic-hud-streaming-overlay-vector-png-image_6647475_14
+  - first:
+      213: 915771569163595790
+    second: pngtree-frame-with-blue-futuristic-hud-streaming-overlay-vector-png-image_6647475_15
+  - first:
+      213: 5127397557591150119
+    second: pngtree-frame-with-blue-futuristic-hud-streaming-overlay-vector-png-image_6647475_16
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: pngtree-frame-with-blue-futuristic-hud-streaming-overlay-vector-png-image_6647475_0
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 253
+        width: 263
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 160002f4167bf23f0800000000000000
+      internalID: -923317770020454303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-frame-with-blue-futuristic-hud-streaming-overlay-vector-png-image_6647475_1
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 256
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48a75744cf96f1010800000000000000
+      internalID: 1161763761086102148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-frame-with-blue-futuristic-hud-streaming-overlay-vector-png-image_6647475_2
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 232
+        width: 54
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 816ebbd905dfcbbb0800000000000000
+      internalID: -4918778170309876200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-frame-with-blue-futuristic-hud-streaming-overlay-vector-png-image_6647475_3
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 270
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad3526f780df39a70800000000000000
+      internalID: 8832681507142390746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-frame-with-blue-futuristic-hud-streaming-overlay-vector-png-image_6647475_4
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 155
+        width: 19
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d706104614ea6a80800000000000000
+      internalID: -8472708964728567854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-frame-with-blue-futuristic-hud-streaming-overlay-vector-png-image_6647475_5
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 97
+        width: 317
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c33e24dd1d5a05d40800000000000000
+      internalID: 5571135059836199740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-frame-with-blue-futuristic-hud-streaming-overlay-vector-png-image_6647475_6
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 250
+        width: 127
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 881c04406e7bbe540800000000000000
+      internalID: 5038322806685745544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-frame-with-blue-futuristic-hud-streaming-overlay-vector-png-image_6647475_7
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 217
+        width: 21
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a19b55788ab239ce0800000000000000
+      internalID: -1399727056357050086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-frame-with-blue-futuristic-hud-streaming-overlay-vector-png-image_6647475_8
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 205
+        width: 21
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 109e84fde4af974f0800000000000000
+      internalID: -830357439612655359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-frame-with-blue-futuristic-hud-streaming-overlay-vector-png-image_6647475_9
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 195
+        width: 21
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a52488e4d2a09ad40800000000000000
+      internalID: 5596015201691910746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-frame-with-blue-futuristic-hud-streaming-overlay-vector-png-image_6647475_10
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 184
+        width: 21
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2db99cf0162406360800000000000000
+      internalID: 7160796392163220434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-frame-with-blue-futuristic-hud-streaming-overlay-vector-png-image_6647475_11
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 171
+        width: 21
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 632baca63ad4c8780800000000000000
+      internalID: -8679477017583111626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-frame-with-blue-futuristic-hud-streaming-overlay-vector-png-image_6647475_12
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 93
+        width: 124
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6cc968f3477a79040800000000000000
+      internalID: 4654372857634528454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-frame-with-blue-futuristic-hud-streaming-overlay-vector-png-image_6647475_13
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 97
+        width: 105
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0370ae45c20177110800000000000000
+      internalID: 1258492403462571824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-frame-with-blue-futuristic-hud-streaming-overlay-vector-png-image_6647475_14
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 97
+        width: 81
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05bcddf08b7bfd7c0800000000000000
+      internalID: -4044311939187356848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-frame-with-blue-futuristic-hud-streaming-overlay-vector-png-image_6647475_15
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 79
+        width: 148
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e00f563e36975bc00800000000000000
+      internalID: 915771569163595790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-frame-with-blue-futuristic-hud-streaming-overlay-vector-png-image_6647475_16
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 84
+        width: 113
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72e0d6a99ec282740800000000000000
+      internalID: 5127397557591150119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      pngtree-frame-with-blue-futuristic-hud-streaming-overlay-vector-png-image_6647475_0: -923317770020454303
+      pngtree-frame-with-blue-futuristic-hud-streaming-overlay-vector-png-image_6647475_1: 1161763761086102148
+      pngtree-frame-with-blue-futuristic-hud-streaming-overlay-vector-png-image_6647475_10: 7160796392163220434
+      pngtree-frame-with-blue-futuristic-hud-streaming-overlay-vector-png-image_6647475_11: -8679477017583111626
+      pngtree-frame-with-blue-futuristic-hud-streaming-overlay-vector-png-image_6647475_12: 4654372857634528454
+      pngtree-frame-with-blue-futuristic-hud-streaming-overlay-vector-png-image_6647475_13: 1258492403462571824
+      pngtree-frame-with-blue-futuristic-hud-streaming-overlay-vector-png-image_6647475_14: -4044311939187356848
+      pngtree-frame-with-blue-futuristic-hud-streaming-overlay-vector-png-image_6647475_15: 915771569163595790
+      pngtree-frame-with-blue-futuristic-hud-streaming-overlay-vector-png-image_6647475_16: 5127397557591150119
+      pngtree-frame-with-blue-futuristic-hud-streaming-overlay-vector-png-image_6647475_2: -4918778170309876200
+      pngtree-frame-with-blue-futuristic-hud-streaming-overlay-vector-png-image_6647475_3: 8832681507142390746
+      pngtree-frame-with-blue-futuristic-hud-streaming-overlay-vector-png-image_6647475_4: -8472708964728567854
+      pngtree-frame-with-blue-futuristic-hud-streaming-overlay-vector-png-image_6647475_5: 5571135059836199740
+      pngtree-frame-with-blue-futuristic-hud-streaming-overlay-vector-png-image_6647475_6: 5038322806685745544
+      pngtree-frame-with-blue-futuristic-hud-streaming-overlay-vector-png-image_6647475_7: -1399727056357050086
+      pngtree-frame-with-blue-futuristic-hud-streaming-overlay-vector-png-image_6647475_8: -830357439612655359
+      pngtree-frame-with-blue-futuristic-hud-streaming-overlay-vector-png-image_6647475_9: 5596015201691910746
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
