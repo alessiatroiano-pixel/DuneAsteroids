@@ -85,6 +85,12 @@ public class GameManager : MonoBehaviour
     private void SetScore(int s) { score = s; scoreText.text = s.ToString(); }
     private void SetLives(int l) { lives = l; livesText.text = l.ToString(); }
 
+    public void QuitGame()
+    {
+        Debug.Log("il gioco si sta chiudendo...");
+        Application.Quit();
+    }
+
     private void Respawn()
     {
         player.transform.position = Vector3.zero;
